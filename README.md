@@ -3,7 +3,7 @@ Public releases of Filebrary for testing and distribution.
 
 "ok but wtf is filebrary?" great question. it's supposed to be a tagging and searching system similar to hydrus network except it's intended to support any kind of file by using an internal homemade document-based database system. it also does/will support mutiple databases to assist in some semblence of customizable organization unlike hydrus which renames everything and dumps it all in it's own directory structure.
 
-a snapshot of an earlier version of the python + pyqt6 version. i'll upload a picture of the new c++ version when i post a release of it.
+a screenshot of an earlier version of the python + pyqt6 version (even earlier than the version uploaded in the 7z archive).
 ![newui](https://github.com/zspinelli/filebrary-releases/assets/111486815/bfe6ed7f-7aa2-44f0-a1c0-afc9bd03f413)
 
 ## contents:
